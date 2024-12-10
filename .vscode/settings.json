@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "stdexcept": "cpp",
+        "cstdint": "cpp",
+        "algorithm": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "iostream": "cpp",
+        "cstddef": "cpp",
+        "*.tcc": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
+    "C_Cpp.default.compileCommands": "c:\\Users\\Max\\Dropbox\\OperationSystems\\lab2\\builddir/compile_commands.json"
+}
